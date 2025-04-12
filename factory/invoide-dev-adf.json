@@ -1,0 +1,9 @@
+{
+	"name": "invoide-dev-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c021e00c-58d7-49f0-91c3-ffb4d4c81456",
+		"tenantId": "0943ce5c-6d16-4e14-b5b8-4263b7d26764"
+	}
+}
